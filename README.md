@@ -1,7 +1,7 @@
 # uber ride Data Analysis Project
 
 ##  Project Overview
-This project analyzes time and day to big ride data using Python, NumPy and Pandas.
+This project analyzes time and day and key thing in data using Python, NumPy and Pandas.
 
 ## Tools Used
 - Python
@@ -13,3 +13,4 @@ This project analyzes time and day to big ride data using Python, NumPy and Pand
 - Monthly ride growth analysis
 - Top performing days
 - Profit trends
+- on the zomato more more thing in the projcet
